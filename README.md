@@ -1,7 +1,11 @@
 <h1 align='center'>ZweL</h1>
 
-## ZweL is a dark theme especially for Javascript & Typescript.
+#### ZweL is a dark theme especially for Javascript & Typescript.
+
+<br /> 
 
 <img src='ZweL.png' />
 
-<p>Made with ❤️‍🔥 by ZweL</p>
+<br /> <br />
+
+<p align='center'>Made with ❤️‍🔥 by ZweL</p>
