@@ -1,0 +1,28 @@
+{
+  "name": "zwel",
+  "displayName": "ZweL",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "ZweL",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "ZweL",
+    "zwel",
+    "theme",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ZweL",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZweL-color-theme.json"
+      }
+    ]
+  }
+}
