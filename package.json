@@ -1,7 +1,8 @@
 {
   "name": "zwel",
   "displayName": "ZweL",
-  "description": "",
+  "icon": "icon.png",
+  "description": "ZweL is a cool dark theme for developers",
   "version": "0.0.1",
   "publisher": "ZweL",
   "engines": {
