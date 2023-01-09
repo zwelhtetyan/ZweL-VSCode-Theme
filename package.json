@@ -3,7 +3,7 @@
   "displayName": "ZweL",
   "icon": "icon.png",
   "description": "ZweL is a cool dark theme for developers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "ZweL",
   "engines": {
     "vscode": "^1.74.0"
